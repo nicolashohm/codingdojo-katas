@@ -2,6 +2,8 @@
 
 Entwickeln sie eine Bibliothek, mit der man auf der Console Daten in einer Tabelle ausgeben kann.
 
+Für die Umsetzung verwenden sie auch gerne Klassen und Interfaces aus der [SPL](http://de2.php.net/manual/de/book.spl.php)
+
 ## Anforderungen
 
 * Spalten sollen einen Titel besitzen der vom User festgelegt werden kann
