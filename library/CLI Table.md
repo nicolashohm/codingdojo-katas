@@ -9,9 +9,10 @@ Für die Umsetzung verwenden sie auch gerne Klassen und Interfaces aus der [SPL]
 * Spalten sollen einen Titel besitzen der vom User festgelegt werden kann
 * Spalten sollen eine feste Breite haben. Es gibt eine standard Breite, die aber auch vom User überschrieben werden kann
 * Sollte ein Wert die Spaltenbreite überschreiten soll der Wert einfach abgeschnitten werden (siehe Beispiel)
-* Die Daten sollen Zeilweisen geliefert werden können
+* Daten sollen Zeilweisen geliefert werden können
 * Die Tabelle soll am Schluss von einer Methode als String zurückgegeben werden
-* OPTIONAL: Die Daten sollen Spaltenweise geliefert werden können (siehe Beispiel 2)
+* OPTIONAL: Daten sollen Spaltenweise geliefert werden können (siehe Beispiel 2)
+* OPTIONAL: Diff Modus: hierbei müssen mindestens zwei Spalten existieren, diese sollen verglichen werden. Wenn die Werte gleich sind soll die Schrift Grün oder die Standard Farbe sein, andernfalls Rot.
 
 ## Beispiel
 
